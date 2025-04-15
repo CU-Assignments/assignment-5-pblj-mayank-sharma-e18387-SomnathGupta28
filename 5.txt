@@ -1,0 +1,27 @@
+1.
+
+Enter numbers separated by spaces: 10 20 30 40 50
+
+Sum of numbers: 150
+
+
+2.
+
+Student details saved successfully!
+Reading from file...
+Student ID: 101
+Student Name: John Doe
+Student GPA: 3.8
+
+3.
+
+Menu:
+1. Add an Employee
+2. Display All Employees
+3. Exit
+Choose an option: 1
+Enter Employee ID: 1001
+Enter Employee Name: Alice
+Enter Designation: Software Engineer
+Enter Salary
+
